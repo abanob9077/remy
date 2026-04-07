@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "CHICKEN CHEESE BURGER",
+    "price": "129 EGP Single / 198 EGP Double",
+    "image": "photo/CHICKEN CHEESEI BURGER.jpeg",
+    "category": "burger"
+  },
+  {
+    "id": 2,
+    "name": "CREPE Chicken Fajitas",
+    "price": "160 EGP",
+    "image": "photo/GREPE Chichen fajitas 160.jpeg",
+    "category": "crepe"
+  },
+  {
+    "id": 3,
+    "name": "LOVERS CHEESE BURGER",
+    "price": "195 EGP Double",
+    "image": "photo/LOVERS CHEESE BURGER.jpeg",
+    "category": "burger"
+  },
+  {
+    "id": 4,
+    "name": "Super Crunchy Chicken",
+    "price": "120 EGP",
+    "image": "photo/Super crunchy chicken2.jpeg",
+    "category": "chicken"
+  },
+  {
+    "id": 5,
+    "name": "Chicken Shawarma",
+    "price": "90 EGP M / 115 EGP L",
+    "image": "photo/Chicken shawarma.jpeg",
+    "category": "shawarma"
+  }
+]
